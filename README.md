@@ -1,7 +1,7 @@
 # gpg-info
 GPG Fingerprint: 6589 AAF2 9B77 DB8E 962C  4C17 1ADB D325 E2AF 86F0
 Keyservers:
-1. [hkp://pgp.mit.edu](https://pgp.mit.edu/)
+1. [https://pgp.mit.edu/](https://pgp.mit.edu/pks/lookup?search=ryan%40ryanphillips.org&op=index&fingerprint=on) - hkp://pgp.mit.edu/
 ```
 Search query: ryan@ryanphillips.org
 Expected result: 
